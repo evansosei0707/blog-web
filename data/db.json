@@ -1,0 +1,28 @@
+{
+  "blog": [
+    {
+      "id": 1,
+      "title": "FrontEnd Development Loading...",
+      "datetime": "October 16, 2023 3:05:54 PM",
+      "body": "I am about to become a frontend Developer soon! Oh I really am!"
+    },
+    {
+      "id": 2,
+      "title": "I love You",
+      "datetime": "October 16, 2023 3:36:27 PM",
+      "body": "Next year, God's willing, Everything will be fine and I know that!"
+    },
+    {
+      "id": 4,
+      "title": "I am now a software Developer",
+      "datetime": "October 16, 2023 2:03:45 PM",
+      "body": "Welcome to the matrix Evans Osei. Congratulations!!"
+    },
+    {
+      "id": 5,
+      "title": "Post 2",
+      "datetime": "October 17, 2023 7:45:25 PM",
+      "body": "how are  doiing?\n"
+    }
+  ]
+}
